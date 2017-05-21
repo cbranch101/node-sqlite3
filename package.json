@@ -38,10 +38,10 @@
   },
   "dependencies": {
     "nan": "~2.4.0",
-    "node-pre-gyp": "~0.6.32"
+    "node-pre-gyp": "~0.6.34"
   },
-  "bundledDependencies": [		
-      "node-pre-gyp"		
+  "bundledDependencies": [
+      "node-pre-gyp"
   ],
   "devDependencies": {
     "aws-sdk": "2.x",
